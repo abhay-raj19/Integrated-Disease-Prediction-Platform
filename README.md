@@ -1,4 +1,4 @@
-### ❤️Multiple Disease Prediction System❤️
+## Multiple Disease Prediction System
 
 ### 🚀Introduction
 This project is a web application that predicts multiple diseases based on the symptoms entered by the user. The user can enter the symptoms and the system will predict the diseases based on the symptoms entered. The system uses a machine learning model to predict the diseases
